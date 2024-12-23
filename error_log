@@ -1,0 +1,150 @@
+[20-Dec-2024 08:30:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 08:31:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 08:31:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 08:55:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 09:12:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 09:12:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 09:12:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 09:14:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 10:04:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 10:04:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 10:04:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 10:04:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 10:04:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 10:08:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 10:09:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 10:10:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 10:10:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 10:10:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 10:16:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 11:24:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 11:24:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[20-Dec-2024 16:35:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[21-Dec-2024 03:25:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[21-Dec-2024 03:25:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[21-Dec-2024 10:04:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[21-Dec-2024 13:27:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[21-Dec-2024 13:27:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[21-Dec-2024 21:17:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[22-Dec-2024 10:12:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
+[22-Dec-2024 16:52:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/devfullc/magicnumbergame.itdgi.com/index.php:4
+Stack trace:
+#0 /home/devfullc/magicnumbergame.itdgi.com/index.php(4): mysqli->__construct()
+#1 {main}
+  thrown in /home/devfullc/magicnumbergame.itdgi.com/index.php on line 4
